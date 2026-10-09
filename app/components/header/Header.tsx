@@ -13,7 +13,7 @@ const Header: React.FC = () => {
     }
     
   return (
-    <header className="bg-black text-white flex flex-row items-center justify-between max-h-18 p-4 border-b-1 border-white">
+    <header className="bg-black text-white flex flex-row items-center justify-between max-h-18 p-4 border-b">
         <div className="flex-1 flex justify-start h-full">
           <img src="/logo2.jpg" alt="Logo" className="h-full object-contain"/>
         </div>
