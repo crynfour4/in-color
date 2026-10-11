@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
             <p className="font-bold">InColor</p>
             by Iryna Tron
         </p>
-        <NavLink href="#">Regulamin</NavLink>
+        <NavLink href="/regulamin">Regulamin</NavLink>
         <p>
             ul. Mariana Hemara 3
             <p>80-280 Gdańsk</p>
