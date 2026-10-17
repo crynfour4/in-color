@@ -28,6 +28,7 @@ interface PriceCategory {
 export interface PersonalData {
     name: string;
     surname: string;
+    phoneNumber?: string;
     socialMedia: SocialMedia[];
     about: string;
     photo: string;

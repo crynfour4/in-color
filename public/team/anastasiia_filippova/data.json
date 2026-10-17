@@ -1,0 +1,73 @@
+{
+    "name": "Anastasiia",
+    "surname": "Filippova",
+    "phoneNumber": "+48796118536",
+    "socialMedia": [
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/vishnyahair.pl?srtk=MTZwNWRoajZtbW5xNg%3D%3D&utm_source=qr",
+            "icon": "/instagram.png"
+        },
+        {
+            "platform": "booksy",
+            "url": "https://booksy.com/pl-pl/191380_vishnya-hair_fryzjer_20383_gdansk?do=invite&_branch_match_id=1624418588973192718&utm_medium=profile_copy_from_profile&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs/VDzXOTKwIdE9KMk%2ByrytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAzVbHjjwAAAA=",
+            "icon": "/booksy.png"
+        }
+    ],
+    "about": "Mam na imię Anastasiia i jestem stylistką z przedłużania włosów. \nWierzę, że perfekcyjne przedłużanie włosów to takie, którego nie widać. \nDlatego w swojej pracy nie korzystam z gotowych schematów. Każdą metamorfozę projektuję indywidualnie — dobierając kolor, strukturę, objętość, wielkość kapsułek oraz ich rozmieszczenie do naturalnych włosów, urody i oczekiwań klientki. \nSpecjalizuję się w przedłużaniu i zagęszczaniu włosów metodą mikrokapsułkową. Szczególną uwagę poświęcam pracy z kolorem — łączę i mieszam różne odcienie, aby uzyskać wielowymiarowy, naturalny efekt i perfekcyjne połączenie z Twoimi włosami. \nPiękny efekt to dla mnie nie tylko długość i objętość. Równie ważne są komfort noszenia, dyskretne kapsułki oraz odpowiednie dopasowanie metody do kondycji naturalnych włosów. \nKażdą nową współpracę rozpoczynam od indywidualnej konsultacji. Poznaję Twoje oczekiwania, analizuję włosy i proponuję rozwiązanie stworzone właśnie dla Ciebie. \nVishnya Hair to naturalność, precyzja i indywidualne podejście. \nChcę, aby efekt nie wyglądał jak „przedłużone włosy”. Ma wyglądać po prostu jak Twoje włosy — tylko piękniejsze, dłuższe i pełniejsze. \n",
+    "photo": "/team/anastasiia_filippova/anastasiia_filippova.png",
+    "portfolio": [
+        {
+            "id": 1,
+            "url": "/team/anastasiia_filippova/portfolio/1.png"
+        },
+        {
+            "id": 2,
+            "url": "/team/anastasiia_filippova/portfolio/2.png"
+        },
+        {
+            "id": 3,
+            "url": "/team/anastasiia_filippova/portfolio/3.png"
+        },
+        {
+            "id": 4,
+            "url": "/team/anastasiia_filippova/portfolio/4.png"
+        },
+        {
+            "id": 5,
+            "url": "/team/anastasiia_filippova/portfolio/5.png"
+        }
+    ],
+    "reviews": [
+    {
+        "id": 1,
+        "author": "Masha K.",
+        "content": "Jestem bardzo zadowolona z przedłużania włosów! Efekt przeszedł moje oczekiwania – włosy wyglądają naturalnie, są pięknie dobrane kolorystycznie i świetnie się układają. Cały zabieg został wykonany bardzo profesjonalnie, w miłej i komfortowej atmosferze. Widać ogromne doświadczenie, precyzję i dbałość o każdy szczegół. Z całego serca polecam każdej osobie, która marzy o pięknych, gęstych i długich włosach. Na pewno wrócę!❤️"
+    },
+    {
+        "id": 2,
+        "author": "Roksana P.",
+        "content": "Piękne włosy, super dopasowane. Nic nie czuć na głowie ☺️"
+    },
+    {
+        "id": 3,
+        "author": "Paulina P.",
+        "content": "Przepiękne włosy, jestem zachwycona! Łączenia malutkie, praktycznie niewyczuwalne, brak odczucia ciężaru na głowie, a włosy same w sobie bardzo miękkie i lśniące ❤️ Bardzo polecam❤️"
+    },
+    {
+        "id": 4,
+        "author": "Hania H.",
+        "content": "Bardzo polecam! Byłam wczoraj na zagęszczaniu włosów i jestem zachwycona efektem 😊 Włosy wyglądają bardzo naturalnie i są idealnie dopasowane. Salon jest piękny, atmosfera świetna, a do tego zostałam poczęstowana pyszną kawą ☕️ Czułam się naprawdę zaopiekowana i komfortowo"
+    },
+    {
+        "id": 5,
+        "author": "Masha K.",
+        "content": "To już moja druga wizyta w Vishnya Hair i po raz kolejny jestem zachwycona! Tym razem przyszłam na korektę i efekt jest naprawdę super. 😊 Widać ogromne zaangażowanie, dokładność i profesjonalne podejście. Z całego serca mega polecam — na pewno wrócę ponownie!❤️"
+    },
+    {
+        "id": 6,
+        "author": "Марина М.",
+        "content": "Pani Anastasia wykazała się ogromnym profesjonalizmem, dokładnością i wyczuciem estetyki. Czas spędzony w salonie minął w bardzo przyjemnej atmosferze. Na pewno wrócę na podciąganie! Dziękuję za piękną fryzurę! ❤️"
+    }
+    ]
+}

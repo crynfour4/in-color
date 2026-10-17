@@ -8,21 +8,24 @@ interface PersonalPageProps {
 
 const PersonalPage: React.FC<PersonalPageProps> = ({ data }) => {
     return (
-        <div className="bg-neutral-900 text-white min-h-screen flex flex-col items-center py-12 px-14 lg:py-20 lg:px-40 gap-10 lg:gap-14">
+        <div className="bg-neutral-900 text-white min-h-screen flex flex-col items-center py-12 px-14 lg:py-16 lg:px-40 gap-10 lg:gap-14 w-full overflow-x-clip">
             <div id="description" className="flex flex-col lg:flex-row justify-center gap-10 items-center">
                 <div className="relative min-w-50 min-h-50 lg:max-w-70 lg:max-h-70 rounded-full overflow-hidden border-3">
                     <img src={data.photo} className="w-full h-full object-cover"/>
                     <div className="absolute inset-0 rounded-full shadow-[inset_0_0_20px_rgba(0,0,0,0.3)] pointer-events-none" />
                 </div>
                 <div className="flex flex-col gap-4 lg:gap-6">
-                    <div className="flex flex-col lg:flex-row justify-between gap-4 lg:gap-none">
+                    <div className="flex flex-col lg:flex-row justify-between gap-4 lg:gap-none lg:items-center">
                         <p className="text-3xl lg:text-5xl font-bold text-shadow-lg/50">{data.name} {data.surname}</p>
-                        <div className="flex flex-row items-center gap-2">
-                            {data.socialMedia.map((item) => (
-                                <a href={item.url}>
-                                    <img src={item.icon} className="h-10 w-10 object-contain"/>
-                                </a>
-                            ))}
+                        <div className="flex flex-col lg:items-end gap-2">
+                            <div className="flex flex-row items-center gap-2">
+                                {data.socialMedia.map((item) => (
+                                    <a href={item.url}>
+                                        <img src={item.icon} className="h-10 w-10 object-contain"/>
+                                    </a>
+                                ))}
+                            </div>
+                            {data.phoneNumber && <p className="text-gray-200 font-bold text-shadow-lg/50">{data.phoneNumber}</p>}
                         </div>
                     </div>
                     <div className="space-y-3 text-lg lg:text-xl text-gray-200 text-shadow-lg/50">
@@ -49,12 +52,12 @@ const PersonalPage: React.FC<PersonalPageProps> = ({ data }) => {
                         </div>
                     ))}
                 </div>
-            ) : <div></div>}
+            ) : <div className="hidden"></div>}
 
             {data.priceList ? (
                 <hr id="divider" className="bg-white h-px w-full"/>
             ) : (
-                <div></div>
+                <div className="hidden"></div>
             )}
 
             <div id="portfolio" className="w-full">
