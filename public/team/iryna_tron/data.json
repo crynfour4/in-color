@@ -1,0 +1,119 @@
+{
+    "name": "Iryna",
+    "surname": "Tron",
+    "socialMedia": [
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/iryna_tron?stkn=em1oenk0d3Iyd2ly",
+            "icon": "/instagram.png"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/share/1Gq9W2cizF/?mibextid=wwXIfr",
+            "icon": "/facebook.png"
+        }
+    ],
+    "about": "Jestem stylistką i kolorystką z wieloletnim doświadczeniem. \nW swojej pracy łączę wiedzę, doświadczenie i autorskie metody, zawsze szukając rozwiązania dopasowanego do konkretnej osoby i jej włosów. \nNie pracuję według jednego schematu. Zależy mi na tym, aby kolor, cięcie czy pielęgnacja podkreślały naturalne atuty i były dopasowane do Twojego stylu, urody oraz codziennych potrzeb. \nStawiam na jakość, zdrowie włosów i efekt, który dobrze wygląda nie tylko tuż po wyjściu z salonu, ale również na co dzień. \nWizyta u mnie zawsze rozpoczyna się od konsultacji. Dzięki niej mogę dokładnie poznać Twoje oczekiwania, ocenić kondycję i możliwości włosów oraz wspólnie z Tobą zaplanować najlepsze rozwiązanie.",
+    "photo": "/team/iryna_tron/iryna_tron.png",
+    "portfolio": [
+        {
+            "id": 1,
+            "url": "/team/iryna_tron/portfolio/1.PNG"
+        },
+        {
+            "id": 2,
+            "url": "/team/iryna_tron/portfolio/2.PNG"
+        },
+        {
+            "id": 3,
+            "url": "/team/iryna_tron/portfolio/3.PNG"
+        },
+        {
+            "id": 4,
+            "url": "/team/iryna_tron/portfolio/4.JPG"
+        },
+        {
+            "id": 5,
+            "url": "/team/iryna_tron/portfolio/5.JPG"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "content": "Nie wyobrażam sobie, że inna fryzjerka da o moje włosy 😍. Profesjonalna obsługa i miła atmosfera w salonie - zawsze zgodny z oczekiwaniami, blond wyszedł równomierny czysty oraz bez plam. Dokładnie taki odcień, o jakim zawsze marzyłam. Serdecznie polecam."
+        },
+        {
+            "id": 2,
+            "content": "Polecam z całego serca, bo właśnie znalazłam fantastyczną czarodziejkę dla moich włosów ❤️. Super przyjazna atmosfera, profesjonalne podejście, a efekt końcowy to sukces i szczęście! Dziękuję bardzo!"
+        },
+        {
+            "id": 3,
+            "content": "Jestem zachwycona efektem. Nigdy nie wyszłam tak zadowolona od fryzjera. Na moich naturalnych, ciemnych włosach wyczarowano mi piękny chłodny blond a co najważniejsze moje delikatne włosy nic na tym nie ucierpiały. Polecam i dziękuję ❤️"
+        },
+        {
+            "id": 4,
+            "content": "Już od 2 lat korzystam z usług salonu: farbowanie, tonowanie, strzyżenie. I zawsze efekt jest perfekcyjny! Obsługa w salonie jest na najwyższym poziomie, profesjonalizm fryzjera, czystość i komfortowa atmosfera. Bardzo dziękuję, że Wasz salon istnieje🥰"
+        },
+        {
+            "id": 5,
+            "content": "Profesjonalizm, świetna atmosfera i przesympatyczna obsługa. Pani Arina ma złote ręce, zrobiła mi niesamowitą zmianę na wlosach: kolor, żywienie, cięcie. Długo nie mogłam znaleźć swojego fryziera i w końcu znalazłam. Jestem mega zadowolona! Polecam goraco z calego serca osobą, ktore chcą zmiany i wygladac perfekcyjnie!"
+        },
+        {
+            "id": 6,
+            "content": "Rewelacja! Perfekcyjne cięcie. Włosy po strzyżeniu układają się bardzo dobrze nawet przy minimalnej stylizacji. Dawno nie byłam tak zadowolona po wizycie u fryzjera ☺️"
+        },
+        {
+            "id": 7,
+            "content": "Jestem bardzoo zadowolona, Piękny kolor, włosy błyszczące i mięciutkie. Moje oczekiwania po raz kolejny spełnione w 100%. Iryna jest specjalistka w swojej dziedzinie. Pełna pasji. Polecam z całego serca ❤️❤️"
+        },
+        {
+            "id": 8,
+            "content": "Airtouch, strzyżenie i modelowanie. Arina posiada ogromną wiedzę, która przekłada się na niesamowite efekty. Pełen profesjonalizm, super atmosfera i nareszcie piękne włosy o których marzyłam. Polecam!"
+        }
+    ],
+    "priceList": [
+        {
+            "category": "Strzyżenie",
+            "items": [
+                {
+                    "Usługa": "Strzyżenie damskie",
+                    "Cena": "200+"
+                }
+            ]
+        },
+        {
+            "category": "Koloryzacja",
+            "items": [
+                {
+                    "Usługa": "Koloryzacja jednolita",
+                    "Cena": "500+"
+                },
+                {
+                    "Usługa": "Koloryzacja odrostu",
+                    "Cena": "300+"
+                },
+                {
+                    "Usługa": "Tonowanie włosów",
+                    "Cena": "400+"
+                }
+            ]
+        },
+        {
+            "category": "Rozjaśnianie",
+            "items": [
+                {
+                    "Usługa": "Autorskie techniki rozjaśniania",
+                    "Cena": "1200+"
+                },
+                {
+                    "Usługa": "Konturing / rozświetlenie wokół twarzy",
+                    "Cena": "500+"
+                },
+                {
+                    "Usługa": "Wyjście z ciemnej bazy kosmetycznej",
+                    "Cena": "2000+"
+                }
+            ]
+        }
+    ]
+}

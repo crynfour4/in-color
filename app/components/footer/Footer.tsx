@@ -2,7 +2,7 @@ import NavLink from "../header/NavLink";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="flex flex-col lg:flex-row bg-black text-white p-6 lg:p-8 border-t justify-between items-start lg:items-center lg:max-h-24 gap-5 lg:gap-0">
+    <footer className="flex flex-col lg:flex-row bg-black text-white p-6 lg:p-8 border-t justify-between items-start lg:items-center lg:max-h-24 gap-5 lg:gap-0 select-none">
         <div>
           <p className="font-bold">InColor<br/></p>
           <p>by Iryna Tron</p>
