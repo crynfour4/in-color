@@ -2,7 +2,7 @@ import Card from "./Card";
 
 const Team: React.FC = () => {
     return (
-        <div className="text-white w-full h-full lg:py-10 flex flex-col justify-center items-center my-10">
+        <div id="zespol" className="text-white w-full h-full lg:py-10 flex flex-col justify-center items-center my-10 scroll-mt-16">
             <p className="font-bold text-3xl lg:text-5xl mb-2 lg:mb-4 text-shadow-lg/40">Nasz zespół</p>
             <p className="text-lg lg:text-xl mb-8 lg:mb-10 text-shadow-lg/40 text-center text-gray-200 max-w-3/4">Kliknij zdjęcie wybranego specjalisty, aby dowiedzieć się więcej.</p>
 

@@ -18,9 +18,9 @@ const Hero: React.FC = () => {
                     <p className="text-gray-200">
                         Poznaj nasz zespół i wybierz specjalistę, który najlepiej odpowiada Twoim potrzebom.
                     </p>
-                    <button className="bg-stone-900/70 px-10 py-3 lg:px-8 lg:py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
+                    <a href="#zespol" className="bg-stone-900/70 px-10 py-3 lg:px-8 lg:py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
                         Przejdź →
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>
