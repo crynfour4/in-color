@@ -152,13 +152,13 @@ export function DeckCarousel({ items }: DeckCarouselProps) {
     };
 
     return (
-        <div className="relative w-full min-w-sm lg:min-w-xl m-auto">
+        <div className="relative w-full min-w-xs lg:min-w-xl m-auto">
             <div
                 ref={deckRef}
                 className={`dc-deck${revealed ? " is-revealed" : ""}`}
                 style={{
                     position: "relative",
-                    minHeight: "240px",
+                    minHeight: "270px",
                     width: "100%",
                     userSelect: "none",
                     perspective: "1200px",
