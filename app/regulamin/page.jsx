@@ -6,7 +6,6 @@ import Paragraph from "../components/regulamin/Paragraph";
 export default function RegulaminPage() {
     return (
         <div className="flex flex-col bg-neutral-900 justify-between select-none">
-            <Header/>
             <div className="text-white flex flex-col items-center justify-center gap-4 p-14 lg:p-20">
                 <div className="max-w-full lg:max-w-1/2">
                     <p className="font-bold text-2xl lg:text-3xl text-center pb-6">REGULAMIN WIZYT</p>
@@ -88,7 +87,6 @@ export default function RegulaminPage() {
                     </Paragraph>
                 </div>
             </div>
-            <Footer/>
         </div>
     )
 }
