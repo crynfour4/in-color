@@ -12,13 +12,13 @@ const Hero: React.FC = () => {
                     <p className="text-3xl lg:text-4xl font-bold border-b pb-8">
                         <span className="font-bold">InColor</span> — przestrzeń stworzona z myślą o pięknie, jakości i dobrym samopoczuciu
                     </p>
-                    <p className="text-gray-150">
+                    <p className="text-gray-100">
                         Łączymy doświadczenie, pasję i różne specjalizacje, tworząc miejsce, w którym każdy może znaleźć coś dla siebie.
                     </p>
-                    <p className="text-gray-150">
+                    <p className="text-gray-100">
                         Poznaj nasz zespół i wybierz specjalistę, który najlepiej odpowiada Twoim potrzebom.
                     </p>
-                    <button className="bg-stone-900/70 px-10 py-3 lg:px-8 lg:py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2">
+                    <button className="bg-stone-900/70 px-10 py-3 lg:px-8 lg:py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
                         Przejdź →
                     </button>
                 </div>
