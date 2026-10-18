@@ -85,7 +85,33 @@
     "reviews": [
         {
             "id": 1,
-            "content": ""
+            "author": "Daniel S.",
+            "content": "Rzadko spotyka się stylistę z tak ogromną pasją i wyczuciem stylu. Każda wizyta u Ciebie to gwarancja sukcesu. Podziwiam Twoją precyzję, profesjonalizm i to, jak lekko i naturalnie radzisz sobie z moimi włosami. Jesteś prawdziwą artystką w swoim fachu."
+        },
+        {
+            "id": 2,
+            "author": "Bogdan T.",
+            "content": "Z całego serca polecam Panią Natalię! ❤️ Jest dokładną i zaangażowaną fryzjerką, która świetnie słucha klienta i zawsze potrafi dobrze doradzić. Mimo że zmieniła miejsce pracy i teraz mam do niej dalej, nadal będę korzystać z jej usług. Pani Natalio, powodzenia w nowym miejscu — trzymam kciuki za Panią i życzę wielu zadowolonych klientów! ❤️"
+        },
+        {
+            "id": 3,
+            "author": "Rafał W.",
+            "content": "Co to pisać. Natalia jest świetną fryzjerką. Przeprowadziłem się do Warszawy a wizyty ustawiam u Natalii w Gdańsku od blisko dwóch lat i nie planuję zmiany, chyba że zdecyduje się np. na Australię. Będę musiał pomyśleć 😀"
+        },
+        {
+            "id": 4,
+            "author": "Tomasz B.",
+            "content": "Mówiąc krótko jestem mega zadowolony a jeszcze bardziej moja partnerka która stwierdziła że moja fryzura po strzyżeniu u Natalii jest po prostu perfekcyjna"
+        },
+        {
+            "id": 5,
+            "author": "Joanna N.",
+            "content": "Wizyta u Pani Natalii, tradycyjnie - perfekcyjnie! Za taką profesjonalistką choćby i na koniec świata :)"
+        },
+        {
+            "id": 6,
+            "author": "Alicja S.",
+            "content": "Chodzę do pani Natalii od ponad roku i zawsze jestem bardzo zadowolona. Idealnie rozumie, czego akurat potrzebuję, a w dodatku każda wizyta upływa w miłej atmosferze :) Polecam każdemu!!"
         }
     ],
     "priceList": [
