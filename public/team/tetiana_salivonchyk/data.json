@@ -1,0 +1,71 @@
+{
+    "name": "Tetiana",
+    "surname": "Salivonchyk",
+    "phoneNumber": "+48 579 111 003",
+    "socialMedia": [
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/tetiana_salivonchyk?igsi=M25heWZwMGprb2t1",
+            "icon": "/instagram.png"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/share/19cMVPSp2Q/?mibextid=wwXIfr",
+            "icon": "/facebook.png"
+        }
+    ],
+    "about": "Chce Pani, żeby inni zauważali piękne włosy, a nie przedłużanie? Właśnie po taki efekt zapraszam do mnie.\nNazywam się Tetiana Salivonchyk — jestem stylistką i instruktorką przedłużania włosów.\nPodejmuję się wymagających metamorfoz: przedłużam włosy już od 2,5 cm długości, tworzę naturalne przejścia przy gęstym bobie oraz indywidualne układy kolorystyczne i połączenia odcieni. \nPracuję również z wybranymi przypadkami częściowego łysienia — jeśli nie ma przeciwwskazań.\nCo zyskuje Pani, przychodząc do mnie? Naturalny efekt: wymarzoną długość i gęstość, harmonijnie dopasowany kolor oraz komfort na co dzień.\nA przede wszystkim — troskę o Pani własne włosy. Oceniam ich kondycję, indywidualnie dobieram obciążenie i rozmieszczenie łączeń oraz wyjaśniam zasady pielęgnacji.\nKondycja Pani włosów po zdjęciu przedłużeń jest dla mnie równie ważna jak piękny efekt w dniu zabiegu.",
+    "photo": "/team/tetiana_salivonchyk/tetiana_salivonchyk.jpg",
+    "portfolio": [
+        {
+            "id": 1,
+            "url": "/team/tetiana_salivonchyk/portfolio/1.JPG"
+        },
+        {
+            "id": 2,
+            "url": "/team/tetiana_salivonchyk/portfolio/2.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "author": "Daria S.",
+            "content": "Pani Tetiana , super empatyczna osoba , profesjonalne podchodzi do sprawy przedłużenia włosów jak i innych zabiegów na włosy . Polecam serdecznie z całego ❤️🌹!!!"
+        },
+        {
+            "id": 2,
+            "author": "Ewa K.",
+            "content": "Pani Tatiana cudowna a usługa na najwyższym poziomie Polecam"
+        },
+        {
+            "id": 3,
+            "author": "Марія П.",
+            "content": "Bardzo dziękuję za taki piękny włosy ❤️❤️❤️ wygląda mega i czuję się bardzo zadowolona 😚🥰polecam serdecznie 😍😍Танюша гарно дякую за таку красу ти найкраща ))"
+        },
+        {
+            "id": 4,
+            "author": "Magdalena B.",
+            "content": "miło sympatycznie i co najważniejsze profesjonalnie w każdym calu ❤️"
+        },
+        {
+            "id": 5,
+            "author": "Daria Ś.",
+            "content": "Zdecydowanie polecam uslugę przedlużania włosów. Przemila atmosfera. Profesjonalnie zrobione. Mimo trudnego koloru wlosow udalo sie idealnie dobrac odcien. Wszyscy zachwyceni efektem."
+        },
+        {
+            "id": 6,
+            "author": "Angelika K.",
+            "content": "Jestem zachwycona! Miałam przerzedzone włosy z przodu i zdecydowałam się na zagęszczenie. Efekt jest bardzo naturalny, włosy wyglądają pięknie i nikt nie zauważa, że są zagęszczane. Profesjonalna obsługa, świetna atmosfera i perfekcyjne wykonanie. Z całego serca polecam!"
+        },
+        {
+            "id": 7,
+            "author": "Ирина К.",
+            "content": "Jestem bardzo zadowolona z przedłużania włosów! Efekt jest naturalny, włosy są miękkie, gęste i pięknie się układają. Usługa wykonana profesjonalnie, w miłej atmosferze i z dużą dbałością o szczegóły. Polecam każdej osobie, która marzy o długich i pięknych włosach. Na pewno wrócę!"
+        },
+        {
+            "id": 8,
+            "author": "Anna C.",
+            "content": "Przedłużanie zostało wykonane po mistrzowsku! Wygląda bardzo naturalnie, a efekt przeszedł moje najśmielsze oczekiwania! Jestem bardzo zadowolona i napewno jeszcze skorzystam z tej usługi! Polecam wszystkim!!!"
+        }
+    ]
+}

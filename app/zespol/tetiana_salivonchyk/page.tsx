@@ -1,7 +1,10 @@
+import PersonalPage from "@/app/components/personalPage/PersonalPage";
+import data from "@/public/team/tetiana_salivonchyk/data.json";
+
 const Page: React.FC = () => {
     return (
-        <div className="bg-neutral-800 text-white flex justify-center items-center h-[90vh]">
-            <p>Tetiana Salivonchyk</p>
+        <div>
+            <PersonalPage data={data}/>
         </div>
     )
 }
