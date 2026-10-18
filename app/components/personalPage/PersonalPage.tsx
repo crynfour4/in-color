@@ -45,7 +45,7 @@ const PersonalPage: React.FC<PersonalPageProps> = ({ data }) => {
                             <h2 className="text-center text-2xl lg:text-4xl font-bold mt-8 mb-4 text-shadow-lg/50">{item1.category}</h2>
                             {item1.items.map((item2) => (
                                 <div className="flex flex-row justify-between gap-20 lg:gap-30">
-                                    <p className="text-lg lg:text-xl text-gray-200 text-shadow-lg/50">{item2.Usługa}</p>
+                                    <p className="text-lg lg:text-xl text-gray-200 text-shadow-lg/50 mb-1">{item2.Usługa}</p>
                                     <p className="text-lg lg:text-xl font-bold text-gray-200 text-shadow-lg/50">{item2.Cena}</p>
                                 </div>
                             ))}

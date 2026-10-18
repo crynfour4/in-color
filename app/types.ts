@@ -17,7 +17,7 @@ interface Review {
 
 interface ServiceItem {
     Usługa: string;
-    Cena: string;
+    Cena?: string;
 }
 
 interface PriceCategory {

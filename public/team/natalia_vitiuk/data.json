@@ -1,0 +1,144 @@
+{
+    "name": "Natalia",
+    "surname": "Vitiuk",
+    "phoneNumber": "+48 693 150 088",
+    "socialMedia": [
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/natali_vitiuk/",
+            "icon": "/instagram.png"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/natali_hair_art_?dlrf=MWk2c2YzYW5jYXM0Yg%3D%3D&utm_source=qr",
+            "icon": "/instagram.png"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/share/1J9KQqGGhw/?mibextid=wwXIfr",
+            "icon": "/facebook.png"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/NataliVitiuk/",
+            "icon": "/facebook.png"
+        },
+        {
+            "platform": "booksy",
+            "url": "https://booksy.com/pl-pl/359115_natali-hair-art_fryzjer_20383_gdansk?do=invite&_branch_match_id=1624418588973192718&utm_medium=profile_copy_from_profile&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs/VN/fy98819A9PMU%2ByrytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAs1CnEDwAAAA=",
+            "icon": "/booksy.png"
+        },
+        {
+            "platform": "tiktok",
+            "url": "https://www.tiktok.com/@natali.hair.art?_r=1&_t=ZN-9AbtYbDPlf4",
+            "icon": "/tiktok.png"
+        }
+    ],
+    "about": "Nazywam się Natalia i jestem fryzjerką z ponad 15-letnim doświadczeniem. Fryzjerstwo to dla mnie połączenie wiedzy, precyzji i pasji do tworzenia fryzur dopasowanych do potrzeb i oczekiwań klientów. \nSpecjalizuję się w strzyżeniach damskich i męskich, koloryzacjach wykonywanych różnymi technikami oraz upięciach. Każda z tych dziedzin daje mi możliwość rozwijania umiejętności i poszukiwania nowych inspiracji. Szczególne miejsce zajmują u mnie upięcia, których tajniki pokazuję również w tutorialach publikowanych w mediach społecznościowych. \nW swojej pracy stawiam na indywidualne podejście, staranność i świadomy dobór rozwiązań. Zależy mi na tym, aby każda fryzura była dopracowana, podkreślała urodę i odpowiadała oczekiwaniom klienta.",
+    "photo": "/team/natalia_vitiuk/natalia_vitiuk.png",
+    "portfolio": [
+        {
+            "id": 1,
+            "url": "/team/natalia_vitiuk/portfolio/1.jpg"
+        },
+        {
+            "id": 2,
+            "url": "/team/natalia_vitiuk/portfolio/2.jpg"
+        },
+        {
+            "id": 3,
+            "url": "/team/natalia_vitiuk/portfolio/3.jpg"
+        },
+        {
+            "id": 4,
+            "url": "/team/natalia_vitiuk/portfolio/4.jpg"
+        },
+        {
+            "id": 5,
+            "url": "/team/natalia_vitiuk/portfolio/5.jpg"
+        },
+        {
+            "id": 6,
+            "url": "/team/natalia_vitiuk/portfolio/6.jpg"
+        },
+        {
+            "id": 7,
+            "url": "/team/natalia_vitiuk/portfolio/7.jpg"
+        },
+        {
+            "id": 8,
+            "url": "/team/natalia_vitiuk/portfolio/8.jpg"
+        },
+        {
+            "id": 9,
+            "url": "/team/natalia_vitiuk/portfolio/9.jpg"
+        },
+        {
+            "id": 10,
+            "url": "/team/natalia_vitiuk/portfolio/10.jpg"
+        },
+        {
+            "id": 11,
+            "url": "/team/natalia_vitiuk/portfolio/11.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "content": ""
+        }
+    ],
+    "priceList": [
+        {
+            "category": "Strzyżenie",
+            "items": [
+                {
+                    "Usługa": "Strzyżenie damskie"
+                },
+                {
+                    "Usługa":"Strzyżenie męskie"
+                },
+                {
+                    "Usługa": "Strzyżenie nastolatków"
+                }
+            ]
+        },
+        {
+            "category": "Koloryzacja",
+            "items": [
+                {
+                    "Usługa": "Jednolita"
+                },
+                {
+                    "Usługa": "Wielotonowa"
+                },
+                {
+                    "Usługa": "Blond"
+                },
+                {
+                    "Usługa": "Refleksy"
+                },
+                {
+                    "Usługa": "Balayage, Ombre, Sombre"
+                }
+            ]
+        },
+        {
+            "category": "Upięcia",
+            "items": [
+                {
+                    "Usługa": "Loki, fale"
+                },
+                {
+                    "Usługa": "Upięcia okazjonalne"
+                },
+                {
+                    "Usługa": "Upięcia ślubne"
+                },
+                {
+                    "Usługa": "Upięcia wieczorowe"
+                }
+            ]
+        }
+    ]
+}
