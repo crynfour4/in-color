@@ -1,9 +1,9 @@
 "use client"
 import React, { useState } from "react";
 import Navigation from "./Navigation";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBars } from "@fortawesome/free-solid-svg-icons"
 import Dropdown from "./Dropdown";
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+
 
 const Header: React.FC = () => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
@@ -20,7 +20,9 @@ const Header: React.FC = () => {
         <Navigation/>
         <div className="flex-1 hidden lg:flex"></div>
         <div className="lg:hidden">
-            <FontAwesomeIcon icon={faBars} className="size-5 cursor-pointer" onClick={toggleVisibility}/>
+          <button className="size-6 cursor-pointer" onClick={toggleVisibility}>
+            {isOpen ? (<XMarkIcon/>) : (<Bars3Icon/>)}
+          </button>
         </div>
         {isOpen && <Dropdown/>}
     </header>
