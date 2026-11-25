@@ -5,8 +5,8 @@ const Dropdown: React.FC = () => {
   return (
     <nav className="flex flex-col items-center justify-center space-y-5 lg:hidden absolute bg-black w-full top-18 left-0 p-4 z-10">
         <NavLink href="/">Strona główna</NavLink>
-        <NavLink href="/#zespol">Poznaj nas</NavLink>
-        <NavLink href="/#">Lokalizacja</NavLink>
+        <NavLink href="/#team">Poznaj nas</NavLink>
+        <NavLink href="/#location">Lokalizacja</NavLink>
     </nav>
   )
 }
