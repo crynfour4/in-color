@@ -1,12 +1,12 @@
-import Footer from "../components/footer/Footer";
-import Header from "../components/header/Header";
 import Headline from "../components/regulamin/Headline";
 import Paragraph from "../components/regulamin/Paragraph";
+import ReturnButton from "../components/returnButton/ReturnButton";
 
 export default function RegulaminPage() {
     return (
         <div className="flex flex-col bg-neutral-900 justify-between select-none">
-            <div className="text-white flex flex-col items-center justify-center gap-4 p-14 lg:p-20">
+            <div className="text-white flex flex-col items-center justify-center gap-4 px-12 py-22 lg:p-20">
+                <ReturnButton/>
                 <div className="max-w-full lg:max-w-1/2">
                     <p className="font-bold text-2xl lg:text-3xl text-center pb-6">REGULAMIN WIZYT</p>
                     <p className="text-lg lg:text-xl text-center pb-16">Dokonanie rezerwacji wizyty oraz skorzystanie z usługi w Salonie In Color oznacza, 

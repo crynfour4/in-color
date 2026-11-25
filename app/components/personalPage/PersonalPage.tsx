@@ -1,6 +1,7 @@
 import { PersonalData } from "@/app/types";
 import { ImageCarousel } from "./ImageCarousel";
 import { DeckCarousel } from "./DeckCaroysel";
+import ReturnButton from "../returnButton/ReturnButton";
 
 interface PersonalPageProps {
     data: PersonalData
@@ -9,7 +10,8 @@ interface PersonalPageProps {
 const PersonalPage: React.FC<PersonalPageProps> = ({ data }) => {
     return (
         <div className="bg-neutral-900 text-white min-h-screen flex flex-col items-center py-12 px-14 lg:py-16 lg:px-40 gap-10 lg:gap-14 w-full overflow-x-clip">
-            <div id="description" className="flex flex-col lg:flex-row justify-center gap-10 items-center">
+            <ReturnButton/>
+            <div id="description" className="flex flex-col lg:flex-row justify-center gap-10 items-center mt-8 lg:mt-4">
                 <div className="relative min-w-50 min-h-50 lg:max-w-70 lg:max-h-70 rounded-full overflow-hidden border-3">
                     <img src={data.photo} className="w-full h-full object-cover"/>
                     <div className="absolute inset-0 rounded-full shadow-[inset_0_0_20px_rgba(0,0,0,0.3)] pointer-events-none" />
