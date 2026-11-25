@@ -9,7 +9,7 @@ export default function RegulaminPage() {
                 <ReturnButton/>
                 <div className="max-w-full lg:max-w-1/2">
                     <p className="font-bold text-2xl lg:text-3xl text-center pb-6">REGULAMIN WIZYT</p>
-                    <p className="text-lg lg:text-xl text-center pb-16">Dokonanie rezerwacji wizyty oraz skorzystanie z usługi w Salonie In Color oznacza, 
+                    <p className="text-lg lg:text-xl text-center pb-16 text-neutral-200">Dokonanie rezerwacji wizyty oraz skorzystanie z usługi w Salonie In Color oznacza, 
                         że Klient zapoznał się z niniejszym Regulaminem, akceptuje jego treść oraz zobowiązuje się do przestrzegania określonych w nim zasad.</p>
 
                     <Headline>PIERWSZA WIZYTA - KONSULTACJA</Headline>
