@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
                         Poznaj nasz zespół i wybierz specjalistę, który najlepiej odpowiada Twoim potrzebom.
                     </p>
                     <a 
-                        href="#zespol"
+                        href="/#team"
                         className="flex flex-row items-center gap-2 bg-stone-900/70 px-6 py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
                             Przejdź
                             <ArrowDownIcon className='size-5'/>
