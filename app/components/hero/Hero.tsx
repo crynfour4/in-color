@@ -1,3 +1,5 @@
+import { ArrowDownIcon } from '@heroicons/react/24/outline';
+
 const Hero: React.FC = () => {
     return (
         <div className="relative w-full min-h-[85vh] lg:min-h-[95vh] flex items-center overflow-hidden">
@@ -18,8 +20,11 @@ const Hero: React.FC = () => {
                     <p className="text-gray-200">
                         Poznaj nasz zespół i wybierz specjalistę, który najlepiej odpowiada Twoim potrzebom.
                     </p>
-                    <a href="#zespol" className="bg-stone-900/70 px-10 py-3 lg:px-8 lg:py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
-                        Przejdź →
+                    <a 
+                        href="#zespol"
+                        className="flex flex-row items-center gap-2 bg-stone-900/70 px-6 py-2 rounded-md border mx-auto cursor-pointer text-shadow-lg/50 my-6 lg:my-2 transition-all duration-300 ease-out hover:scale-105 active:scale-95">
+                            Przejdź
+                            <ArrowDownIcon className='size-5'/>
                     </a>
                 </div>
             </div>
